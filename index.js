@@ -5,7 +5,7 @@ const {
   StringSelectMenuBuilder,
   ActionRowBuilder,
   EmbedBuilder,
-} = require("discord.js");
+} = require("discord.js")
 const { createCanvas, loadImage } = require("canvas");
 const GIFEncoder = require("gif-encoder-2");
 const gifken = require("gifken");
