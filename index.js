@@ -14,7 +14,7 @@ const effectOptions = require("./effects.json");
 const { token, guildId } = require("./config");
 const readyEvent = require("./ready");
 
-const client = new Client({
+const client = new 
   intents: [
     GatewayIntentBits.Guilds,
     GatewayIntentBits.GuildMessages,
