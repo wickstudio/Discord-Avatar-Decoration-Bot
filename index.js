@@ -5,7 +5,7 @@ const {
   StringSelectMenuBuilder,
   ActionRowBuilder,
   EmbedBuilder,
-} = require("discord.js");
+} = require("discord.js")
 const { createCanvas, loadImage } = require("canvas");
 const GIFEncoder = require("gif-encoder-2");
 const gifken = require("gifken");
@@ -14,7 +14,7 @@ const effectOptions = require("./effects.json");
 const { token, guildId } = require("./config");
 const readyEvent = require("./ready");
 
-const client = new Client({
+const client = new 
   intents: [
     GatewayIntentBits.Guilds,
     GatewayIntentBits.GuildMessages,
