@@ -81,7 +81,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 ## Contact
 
-- Email: wick@wick-studio.com
-- Website: https://wickdev.xyz
-- Discord: https://discord.gg/wicks
-- YouTube: https://www.youtube.com/@wick_studio
+- Discord: https://discord.gg/f17
