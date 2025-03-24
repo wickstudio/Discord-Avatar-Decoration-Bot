@@ -1,87 +1,126 @@
 # Discord Avatar Decoration Bot
 
-This is a Discord bot that allows users to decorate their avatars with unique visual effects. The bot is built using [discord.js](https://discord.js.org/), [canvas](https://github.com/Automattic/node-canvas), and [gif-encoder-2](https://www.npmjs.com/package/gif-encoder-2). The effects are provided in the `effects.json` file, and users can select them via a slash command to apply to their avatars.
+A powerful Discord bot that allows users to add decorative effects to their profile pictures. Users can choose from a variety of decorations including Discord's official avatar decorations and country flags.
 
-## Features
+![Bot Showcase](https://i.imgur.com/4m0b8w3.png)
 
-- Select from a variety of visual effects to decorate your avatar.
-- The bot generates a GIF with the chosen effect and sends it back to the user.
-- Handles different categories of effects with emoji representation.
-- Designed to be extensible and easy to configure.
+## ✨ Features
 
-## Setup
+- **Avatar Decorations**: Apply animated decorative effects to user avatars
+- **Extensive Collection**: Support for Discord's official avatar decorations and country flags
+- **Channel Restrictions**: Configure specific channels where the bot can be used
+- **User-Friendly Interface**: Clean UI with categorized effects and navigation buttons
+- **Random Effects**: Get a random decoration with one click
+- **Slash Commands**: Full support for Discord's slash commands system
+- **Legacy Commands**: Also supports traditional prefix commands (`!effect`)
+- **Cooldown System**: Prevents abuse and rate limiting
+- **Robust Error Handling**: Comprehensive error logging and recovery
+- **High-Quality Output**: Generates high-resolution avatar GIFs
 
-### Prerequisites
+## 📋 Requirements
 
-- [Node.js](https://nodejs.org/) (v18 or higher)
-- A Discord bot token. You can get one by creating a bot on the [Discord Developer Portal](https://discord.com/developers/applications).
+- Node.js 16.9.0 or higher
+- A Discord Bot Token
+- Discord.js v14
 
-### Installation
+## 🚀 Installation
 
-1. Clone the repository:
-
-   ```sh
+1. **Clone the repository**:
+   ```bash
    git clone https://github.com/wickstudio/discord-avatar-decoration-bot.git
    cd discord-avatar-decoration-bot
    ```
 
-2. Install the dependencies:
-
-   ```sh
+2. **Install dependencies**:
+   ```bash
    npm install
    ```
 
-3. Configure the bot by creating a `config.js` file in the root directory and adding your Discord bot token and guild ID:
-
-   ```js
+3. **Configure the bot** in `config.js`:
+   ```javascript
    module.exports = {
-     guildId: "YOUR_GUILD_ID",
-     token: "YOUR_BOT_TOKEN"
-   };
+  token: "TOKEN", // Your bot token
+  guildId: "ID", // Your server ID (for guild commands)
+  
+  // COMMAND SETTINGS
+  defaultPrefix: "!", // Prefix for commands
+  cooldown: 5, // Command cooldown in seconds
+  
+  allowedChannelIds: ["ID"], // Channel IDs
+  
+  avatarSize: 512, // Avatar size
+  gifQuality: 10, // GIF quality (1-30)
+  frameDelay: 100, // Delay between frames in ms
+};
    ```
 
-4. Create a `effects.json` file in the root directory to define the available effects. Here is an example:
-
-   ```json
-   [
-     {
-       "id": "1232071069268049920",
-       "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a47890109a231f72dae7b17b27164676.png?size=240&passthrough=true",
-       "label": "A glittering ring of colorful stardust adorns the avatar with a celestial touch.",
-       "category": "decorations",
-       "emoji": "<emoji_1232071069268049920:1238864757491109889>"
-     },
-     ...
-   ]
+4. **Start the bot**:
+   ```bash
+   npm start
    ```
 
-## Running the Bot
+## 💻 Usage
 
-Start the bot with the following command:
+### Commands
 
-```sh
-node index.js
-```
+- `/effect` - Opens the avatar decoration menu (slash command)
+- `/help` - Shows bot help and information
+- `/ping` - Checks bot response time and connection status
+- `!effect` - Text command to open the avatar decoration menu
 
-## Usage
+### How to Use
 
-- Invite the bot to your Discord server.
-- Use the `/effect` command to bring up the menu of available effects.
-- Select an effect from the dropdown menu to apply it to your avatar.
-- The bot will generate a GIF with the chosen effect and send it back to you.
+1. Type `/effect` or `!effect` in any allowed channel
+2. Select a decoration category from the dropdown menus
+3. Click on the desired effect
+4. The bot will reply with your decorated avatar as a GIF
 
-## Contributing
+### Channel Restrictions
 
-If you would like to contribute to this project, please feel free to submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+You can restrict the bot to only work in specific channels:
 
-## License
+- **Allow in specific channels**: Add channel IDs to the `allowedChannelIds` array
+- **Disable completely**: Set `allowedChannelIds` to an empty array `[]`
+- **Allow everywhere**: Set `allowedChannelIds` to `null` or remove the setting
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+## 🛠️ Development
 
----
-## Contact
+- **Run with auto-restart**:
+  ```bash
+  npm run dev
+  ```
 
-- Email: wick@wick-studio.com
-- Website: https://wickdev.xyz
-- Discord: https://discord.gg/wicks
-- YouTube: https://www.youtube.com/@wick_studio
+- **Check for linting issues**:
+  ```bash
+  npm run lint
+  ```
+
+## 🔧 Advanced Configuration
+
+The bot allows for detailed customization:
+
+- **Button Customization**: Navigation buttons support custom emojis
+- **GIF Quality**: Adjustable avatar size and GIF quality settings
+- **Cooldown Management**: Configurable cooldown settings to prevent spam
+
+## ⚠️ Troubleshooting
+
+If you encounter issues:
+
+- Ensure your bot has the correct permissions (Send Messages, Embed Links, Attach Files)
+- Check that your bot token is valid
+- Verify that the required intents are enabled in the Discord Developer Portal
+
+## 🙏 Credits
+
+- Created by [Wick Studio](https://discord.gg/wicks)
+- Uses Discord.js for bot functionality
+- Uses canvas and gif-encoder-2 for image processing
+
+## 📄 License
+
+MIT License
+
+## 🔗 Support
+
+For support, join our [Discord Server](https://discord.gg/wicks)
