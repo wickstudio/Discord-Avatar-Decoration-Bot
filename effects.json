@@ -1,555 +1,1534 @@
 [
   {
-    "id": "1232071069268049920",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a47890109a231f72dae7b17b27164676.png?size=240&passthrough=true",
-    "label": "A glittering ring of colorful stardust adorns the avatar with a celestial touch.",
-    "category": "decorations",
-    "emoji": "<emoji_1232071069268049920:1269811420053110846>"
-  },
-  {
-    "id": "1232071159860822117",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_6d16b27d9415cafe3b289053644337c4.png?size=240&passthrough=true",
-    "label": "A mesmerizing dark hole swirls around the avatar",
-    "category": "decorations",
-    "emoji": "<emoji_1232071159860822117:1269811424293687401>"
-  },
-  {
-    "id": "1232071714909847682",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_8552f9857793aed0cf816f370e2df3be.png?size=240&passthrough=true",
-    "label": "Star constellations decorate the avatar",
-    "category": "decorations",
-    "emoji": "<emoji_1232071714909847682:1269811428337127476>"
-  },
-  {
-    "id": "1232072123950956635",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_9a6bf0ab30a6719d6eb09fa4996984ca.png?size=240&passthrough=true",
-    "label": "Three planets orbit around an avatar engulfed by solar flames.",
-    "category": "decorations",
-    "emoji": "<emoji_1232072123950956635:1269811432023916555>"
-  },
-  {
-    "id": "1232072522690854964",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_6fdbddb6229453eac3bbb212edf5cd1c.png?size=240&passthrough=true",
-    "label": "A UFO appears and emits an abduction beam before flying away... talk about a grab-and-go.",
-    "category": "decorations",
-    "emoji": "<emoji_1232072522690854964:1269811438101205012>"
-  },
-  {
-    "id": "1232072861636755466",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_c9b84ee80a335a9d59b69352e34574f6.png?size=240&passthrough=true",
-    "label": "The avatar wears an astronaut helmet. Protecting your head is always a good look.",
-    "category": "decorations",
-    "emoji": "<emoji_1232072861636755466:1269811441574350949>"
-  },
-  {
-    "id": "1228246415449264168",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_49c479e15533fb4c02eb320c9c137433.png?size=240&passthrough=true",
-    "label": "Waves of color pulsate around the avatar to the tempo of lo-fi hip hop beats.",
-    "category": "decorations",
-    "emoji": "<emoji_1228246415449264168:1269811450197835820>"
-  },
-  {
-    "id": "1228251189276184618",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_77b7b6a740a9451e1ef39c0252154ef8.png?size=240&passthrough=true",
-    "label": "An adorable cat sleeps peacefully on the avatar.",
-    "category": "decorations",
-    "emoji": "<emoji_1228251189276184618:1269811452555038777>"
-  },
-  {
-    "id": "1228251373158793251",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_f740031cc97d1b7eb73c0d0ac1dd09f3.png?size=240&passthrough=true",
-    "label": "Stringlights and a lovely houseplant adorn the frame of the avatar for the ultimate cozy mood.",
-    "category": "decorations",
-    "emoji": "<emoji_1228251373158793251:1269811455851626597>"
-  },
-  {
-    "id": "1228251862709567508",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_e8c11f139e55dac538cdaafb3caa2317.png?size=240&passthrough=true",
-    "label": "Raindrops sprinkle outside of the avatar through a window's view for a calming ambiance.",
-    "category": "decorations",
-    "emoji": "<emoji_1228251862709567508:1269811458666135604>"
-  },
-  {
-    "id": "1228252061171449876",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_bb71042ccd2ca277a69f086a4f3354d0.png?size=240&passthrough=true",
-    "label": "An avatar wearing a pair of stylish headphones.",
-    "category": "decorations",
-    "emoji": "<emoji_1228252061171449876:1269811461593759754>"
-  },
-  {
-    "id": "1228252237407588382",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_5873ecaa76fb549654b40095293f902e.png?size=240&passthrough=true",
-    "label": "A pen scribbles a cheeky smiley face on a small notebook next to a pair of earbuds.",
-    "category": "decorations",
-    "emoji": "<emoji_1228252237407588382:1269811464592556056>"
-  },
-  {
-    "id": "1220513979898793994",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_98555e40cc6802bd3a4fed906af1d992.png?size=240&passthrough=true",
-    "label": "Clove's special smoke ability wraps around the avatar",
-    "category": "decorations",
-    "emoji": "<emoji_1220513979898793994:1269811468937855131>"
-  },
-  {
-    "id": "1220513986051837952",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_c45abe8c7585fdb41b8d8d4d666f1588.png?size=240&passthrough=true",
-    "label": "The avatar wears Omen's signature hood.",
-    "category": "decorations",
-    "emoji": "<emoji_1220513986051837952:1269811472100233398>"
-  },
-  {
-    "id": "1220513991449907280",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a87e3efa4de2956331831681231ce63b.png?size=240&passthrough=true",
-    "label": "Reyna's Leer ability surrounds the avatar",
-    "category": "decorations",
-    "emoji": "<emoji_1220513991449907280:1269811477884174356>"
-  },
-  {
-    "id": "1220513996889919548",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_09de63526a45be1ddac70e84718ee04a.png?size=240&passthrough=true",
-    "label": "A kill icon displaying 5 confirmed kills.",
-    "category": "decorations",
-    "emoji": "<emoji_1220513996889919548:1269811481059528725>"
-  },
-  {
-    "id": "1220514050551709787",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_904b1989077c91fca1168d39bfcaa0a4.png?size=240&passthrough=true",
-    "label": "The avatar equips throwing knives from Jett's signature Blade Storm ability.",
-    "category": "decorations",
-    "emoji": "<emoji_1220514050551709787:1269811484238680228>"
-  },
-  {
-    "id": "1217624823656611952",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_27bbf0b53b1054cf61e9a4c0e8d4027f.png?size=240&passthrough=true",
-    "label": "A jubilant bee buzzes around an avatar adorned with lush petals. We must protect them at all costs.",
-    "category": "decorations",
-    "emoji": "<emoji_1217624823656611952:1269811486684086404>"
-  },
-  {
-    "id": "1217625430320742551",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_629689577fa1da2ef0061a5a8c930de1.png?size=240&passthrough=true",
-    "label": "A pair of fluffy dandelions have their florets dispersed by a gentle breeze.",
-    "category": "decorations",
-    "emoji": "<emoji_1217625430320742551:1269811489762578506>"
-  },
-  {
-    "id": "1217625725092233236",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_0c0eeb351ae2cf48c6e1eee2cae49d40.png?size=240&passthrough=true",
-    "label": "A living rainbow suddently loses its colorful hues and unleashes a stormy lament.",
-    "category": "decorations",
-    "emoji": "<emoji_1217625725092233236:1269811492623089665>"
-  },
-  {
-    "id": "1217625936015392890",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_9867b1ba56601e745cfe741e6b00b835.png?size=240&passthrough=true",
-    "label": "Three happy strawberries are hanging out together on a vine",
-    "category": "decorations",
-    "emoji": "<emoji_1217625936015392890:1269811495609307207>"
-  },
-  {
-    "id": "1217626041456001146",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_4cd9ae5a8d103c219eacd3674d7730cd.png?size=240&passthrough=true",
-    "label": "Two butterflies flutter around the avatar",
-    "category": "decorations",
-    "emoji": "<emoji_1217626041456001146:1269811498117632125>"
-  },
-  {
-    "id": "1217626222851391529",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_ab95c78401ce4ec85c25a6d308db9d85.png?size=240&passthrough=true",
-    "label": "Three merry flowerheads are quite entertained by the gentle descent of petals around them.",
-    "category": "decorations",
-    "emoji": "<emoji_1217626222851391529:1269811500391071808>"
-  },
-  {
-    "id": "1212569455880699944",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_c3cffc19e9784f7d0b005eecdf1b566e.png?size=240&passthrough=true",
-    "label": "Cat ears and whiskers adorn the avatar",
-    "category": "decorations",
-    "emoji": "<emoji_1212569455880699944:1269811503289335811>"
-  },
-  {
-    "id": "1212569932391387137",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_f3af281c65cf0cf590e9e1f59e9c6cf6.png?size=240&passthrough=true",
-    "label": "Waves of crackling energy surrounds the avatar",
-    "category": "decorations",
-    "emoji": "<emoji_1212569932391387137:1269811506170822758>"
-  },
-  {
-    "id": "1212570367017885737",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_3e1fc3c7ee2e34e8176f4737427e8f4f.png?size=240&passthrough=true",
-    "label": "Hearts and flowers decorate the avatar's frame for a lovely",
-    "category": "decorations",
-    "emoji": "<emoji_1212570367017885737:1269811509706625067>"
-  },
-  {
-    "id": "1212570617404981348",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_51d3bb502109eec26c76386ec980bc8b.png?size=240&passthrough=true",
-    "label": "A drop of sweat slides down the avatar's frame",
-    "category": "decorations",
-    "emoji": "<emoji_1212570617404981348:1269811512202100850>"
-  },
-  {
-    "id": "1212581170823561236",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a0db4314b8cc271c8f472357aa895005.png?size=240&passthrough=true",
-    "label": "The avatar emits an exclamation mark",
-    "category": "decorations",
-    "emoji": "<emoji_1212581170823561236:1269811515062489221>"
-  },
-  {
-    "id": "1212581413958979634",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_4cc97277177b166fd7d4af3bdb370815.png?size=240&passthrough=true",
-    "label": "A sobbing avatar lets loose a cascade of tears.",
-    "category": "decorations",
-    "emoji": "<emoji_1212581413958979634:1269811517692579911>"
-  },
-  {
-    "id": "1154896010255015996",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_c7e1751e8122f1b475cb3006966fb28c.png?size=240&passthrough=true",
-    "label": "Radiating Energy Circle with Lightning",
-    "category": "decorations",
-    "emoji": "<emoji_1154896010255015996:1269811520087261274>"
-  },
-  {
-    "id": "1144305233707671574",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_c3c09bd122898be35093d0d59850f627.png?size=240&passthrough=true",
-    "label": "Wavy Ghost with Shocked Expression",
-    "category": "decorations",
-    "emoji": "<emoji_1144305233707671574:1269811523895951445>"
-  },
-  {
-    "id": "1144307257807491095",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_55c9d0354290afa8b7fe47ea9bd7dbcf.png?size=240&passthrough=true",
-    "label": "Sweat Drops with Question Mark Speech Bubble",
-    "category": "decorations",
-    "emoji": "<emoji_1144307257807491095:1269811527687606537>"
-  },
-  {
-    "id": "1144307629225672847",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_d72066b8cecbadd9fc951913ebcc384f.png?size=240&passthrough=true",
-    "label": "Twinkling Lines and Stars",
-    "category": "decorations",
-    "emoji": "<emoji_1144307629225672847:1269811532376576073>"
-  },
-  {
-    "id": "1144307957425778780",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_8ffa2ba9bff18e96b76c2e66fd0d7fa3.png?size=240&passthrough=true",
-    "label": "Speech Bubble with Lovestruck Expression and Floating Hearts",
-    "category": "decorations",
-    "emoji": "<emoji_1144307957425778780:1269811535862300693>"
-  },
-  {
-    "id": "1174460891727663244",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_b98e8b204d59882fb7f9f7c86922c0bf.png?size=240&passthrough=true",
-    "label": "Thick Exclamation Lines with Japanese Hiragana Speech Bubble",
-    "category": "decorations",
-    "emoji": "<emoji_1174460891727663244:1269811540559925249>"
-  },
-  {
-    "id": "1144308439720394945",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_3c97a2d37f433a7913a1c7b7a735d000.png?size=240&passthrough=true",
-    "label": "Anger Symbol with Exclamation Mark Speech Bubble",
-    "category": "decorations",
-    "emoji": "<emoji_1144308439720394945:1269811544254840983>"
-  },
-  {
-    "id": "1207047386778697828",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a065206df7b011a5510e4e5bca7d49be.png?size=240&passthrough=true",
-    "label": "Three fireballs revolve around the avatar's frame",
-    "category": "decorations",
-    "emoji": "<emoji_1207047386778697828:1269811546985599006>"
-  },
-  {
-    "id": "1207047673673420860",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_250640ab00a8837a1d56f35879138177.png?size=240&passthrough=true",
-    "label": "Droplets and streaks of water dance and swirl around the avatar.",
-    "category": "decorations",
-    "emoji": "<emoji_1207047673673420860:1269811554900246620>"
-  },
-  {
-    "id": "1207047813888872518",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_554b7c34f7b6c709f19535aacb128e7b.png?size=240&passthrough=true",
-    "label": "A sphere of gusting wind swirls around the avatar.",
-    "category": "decorations",
-    "emoji": "<emoji_1207047813888872518:1269811558431588428>"
-  },
-  {
-    "id": "1207048053006139492",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_fa014594d4b2b4249e1098c0adc85b47.png?size=240&passthrough=true",
-    "label": "A large chunk of earthly rock is split into five smaller chunks.",
-    "category": "decorations",
-    "emoji": "<emoji_1207048053006139492:1269811562697457664>"
-  },
-  {
-    "id": "1207048292551368745",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_365eed4178528fe8293c4212e8e2d5cb.png?size=240&passthrough=true",
-    "label": "A streak of electricity jolts around the avatar",
-    "category": "decorations",
-    "emoji": "<emoji_1207048292551368745:1269811565784338554>"
-  },
-  {
-    "id": "1207048659666079814",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_82e4df4028396ad5ccaaafb397fa6248.png?size=240&passthrough=true",
-    "label": "Fire",
-    "category": "decorations",
-    "emoji": "<emoji_1207048659666079814:1269811568858894398>"
-  },
-  {
-    "id": "1197344345783808161",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_e90ebc0114e7bdc30353c8b11953ea41.png?size=240&passthrough=true",
-    "label": "Something disrupted the neurovisor connection. The signal appears as static over the avatar. Better call Repairs.",
-    "category": "decorations",
-    "emoji": "<emoji_1197344345783808161:1269811572226654219>"
-  },
-  {
-    "id": "1197344413718949938",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_c6b3bc1dc49e5b284dca0b6437831004.png?size=240&passthrough=true",
-    "label": "A glowing neon HUD overlays the avatar",
-    "category": "decorations",
-    "emoji": "<emoji_1197344413718949938:1269811576547049644>"
-  },
-  {
-    "id": "1197344598675165204",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_cc83efd93ecd6e41857449c3c0ef9b22.png?size=240&passthrough=true",
-    "label": "After booting up",
-    "category": "decorations",
-    "emoji": "<emoji_1197344598675165204:1269811579461959691>"
-  },
-  {
-    "id": "1197344653515690054",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_172fa9da0af8698e37f5e5de76637439.png?size=240&passthrough=true",
-    "label": "A surge of energy pulses through wires perched on top of this avatar. Electricity dangerously crackles over the image. Be careful with this one!",
-    "category": "decorations",
-    "emoji": "<emoji_1197344653515690054:1269811582402297858>"
-  },
-  {
-    "id": "1144005849740742707",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_0f5d6c4dd8ae74662ee9c40722a56cbd.png?size=240&passthrough=true",
-    "label": "Curved Sword with Pink Gem Engraved in Hilt",
-    "category": "decorations",
-    "emoji": "<emoji_1144005849740742707:1269811588232253544>"
-  },
-  {
-    "id": "1144007738859470929",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_1dbc603c181999b9815cb426dfec71a6.png?size=240&passthrough=true",
-    "label": "Round Glass Bottle with Cork",
-    "category": "decorations",
-    "emoji": "<emoji_1144007738859470929:1269811594058272780>"
-  },
-  {
-    "id": "1144046002110738635",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_fe3c76cac2adf426832a7e495e8329d3.png?size=240&passthrough=true",
-    "label": "Three Fairy Sprites",
-    "category": "decorations",
-    "emoji": "<emoji_1144046002110738635:1269811598260834407>"
-  },
-  {
-    "id": "1144048390594908213",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_db9baf0ba7cf449d2b027c06309dbe8d.png?size=240&passthrough=true",
-    "label": "Wizard's Staff with Green Gem",
-    "category": "decorations",
-    "emoji": "<emoji_1144048390594908213:1269811604258816097>"
-  },
-  {
-    "id": "1144048977138946231",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_d650e22f6c4bab4fc0969e9d35edbcb0.png?size=240&passthrough=true",
-    "label": "Circle of Blue Rune Stones",
-    "category": "decorations",
-    "emoji": "<emoji_1144048977138946231:1269811614937514046>"
-  },
-  {
-    "id": "1144049316009353339",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_29a0533cb3de61aa8179810188f3830d.png?size=240&passthrough=true",
-    "label": "Shield with Blue Gem Below a Branch of Green Leaves",
-    "category": "decorations",
-    "emoji": "<emoji_1144049316009353339:1269811619580608553>"
-  },
-  {
-    "id": "1144049603109470371",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_9d67a1cbf81fe7197c871e94f619b04b.png?size=240&passthrough=true",
-    "label": "Skull Medallion Hanging from Pink Band",
-    "category": "decorations",
-    "emoji": "<emoji_1144049603109470371:1269811626136043663>"
-  },
-  {
-    "id": "1144049924397334652",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_4c9f2ec29c05755456dbce45d8190ed4.png?size=240&passthrough=true",
-    "label": "Gold Key with Red Gem",
-    "category": "decorations",
-    "emoji": "<emoji_1144049924397334652:1269811631093973022>"
-  },
-  {
-    "id": "1144058522808614924",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_d3da36040163ee0f9176dfe7ced45cdc.png?size=240&passthrough=true",
-    "label": "Futuristic Headphones",
-    "category": "decorations",
-    "emoji": "<emoji_1144058522808614924:1269811632523968515>"
-  },
-  {
-    "id": "1144058844004233370",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_fed43ab12698df65902ba06727e20c0e.png?size=240&passthrough=true",
-    "label": "Futuristic Interface",
-    "category": "decorations",
-    "emoji": "<emoji_1144058844004233370:1269811634717589567>"
-  },
-  {
-    "id": "1144059132517826602",
-    "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_10b9f886b513b77ccdd67c8784f1a496.png?size=240&passthrough=true",
-    "label": "Smoke with Green Shining Border",
-    "category": "decorations",
-    "emoji": "<emoji_1144059132517826602:1269811638542925916>"
-  },
-  {
-    "id": "Libya",
-    "name": "Libya",
-    "category": "flags",
-    "url": "https://i.ibb.co/VJ7q2FV/ezgif-7-a2ecd1b7f9.png",
-    "emoji": "<emoji_Libya:1269811652271013969>"
-  },
-  {
-    "id": "Algeria",
-    "name": "Algeria",
-    "category": "flags",
-    "url": "https://i.ibb.co/C7Zdqnp/ezgif-1-148d3d8ea9.png",
-    "emoji": "<emoji_Algeria:1269811671774269473>"
-  },
-  {
-    "id": "Bahrain",
-    "name": "Bahrain",
-    "category": "flags",
-    "url": "https://i.ibb.co/Dr5gMvn/ezgif-1-bf03b81f9d.png",
-    "emoji": "<emoji_Bahrain:1269811697850253332>"
-  },
-  {
-    "id": "Comoros",
-    "name": "Comoros",
-    "category": "flags",
-    "url": "https://i.ibb.co/9nqKx3b/ezgif-1-f0b73c7a9f.png",
-    "emoji": "<emoji_Comoros:1269812721449173064>"
-  },
-  {
-    "id": "Tunisia",
-    "name": "Tunisia",
-    "category": "flags",
-    "url": "https://i.ibb.co/Ksqq6d7/ezgif-7-727033509f.png",
-    "emoji": "<emoji_Tunisia:1269812736427032577>"
-  },
-  {
-    "id": "UAE",
-    "name": "UAE",
-    "category": "flags",
-    "url": "https://i.ibb.co/mSRswm8/ezgif-7-637d28d3db.png",
-    "emoji": "<emoji_UAE:1269813327924559916>"
-  },
-  {
-    "id": "Somalia",
-    "name": "Somalia",
-    "category": "flags",
-    "url": "https://i.ibb.co/Sn84j7t/ezgif-7-0f127c7b46.png",
-    "emoji": "<emoji_Somalia:1269813342927716434>"
-  },
-  {
-    "id": "Sudan",
-    "name": "Sudan",
-    "category": "flags",
-    "url": "https://i.ibb.co/TLTD2Jk/ezgif-7-b07f2e63fe.png",
-    "emoji": "<emoji_Sudan:1269813360279425065>"
-  },
-  {
-    "id": "Syria",
-    "name": "Syria",
-    "category": "flags",
-    "url": "https://i.ibb.co/dQvcZQp/ezgif-7-369d86d58c.png",
-    "emoji": "<emoji_Syria:1269813372711600171>"
-  },
-  {
-    "id": "Yemen",
-    "name": "Yemen",
-    "category": "flags",
-    "url": "https://i.ibb.co/kDF5G5v/ezgif-7-ea2030a439.png",
-    "emoji": "<emoji_Yemen:1269813700592926872>"
-  },
-  {
-    "id": "Overlay",
-    "name": "Overlay",
-    "category": "flags",
-    "url": "https://i.ibb.co/hZD0mmM/ezgif-7-699c07f6f4.png",
-    "emoji": "<emoji_Overlay:1269813723510472705>"
-  },
-  {
-    "id": "Palestine",
-    "name": "Palestine",
-    "category": "flags",
-    "url": "https://i.ibb.co/w6b12fc/ezgif-7-5217c6ff98.png",
-    "emoji": "<emoji_Palestine:1269813743731212299>"
-  },
-  {
-    "id": "Qatar",
-    "name": "Qatar",
-    "category": "flags",
-    "url": "https://i.ibb.co/xs2Lktj/ezgif-7-44263314da.png",
-    "emoji": "<emoji_Qatar:1269813762190479401>"
-  },
-  {
-    "id": "Saudi",
-    "name": "Saudi",
-    "category": "flags",
-    "url": "https://i.ibb.co/rGYFpWw/ezgif-7-8da0a9f5eb.png",
-    "emoji": "<emoji_Saudi:1269813780364394508>"
-  },
-  {
-    "id": "Jordan",
-    "name": "Jordan",
-    "category": "flags",
-    "url": "https://i.ibb.co/hyBBCB7/ezgif-7-df80ea6e6e.png",
-    "emoji": "<emoji_Jordan:1269813795606368277>"
-  },
-  {
-    "id": "Kuwait",
-    "name": "Kuwait",
-    "category": "flags",
-    "url": "https://i.ibb.co/y58DkH5/ezgif-7-af7e8c28ab.png",
-    "emoji": "<emoji_Kuwait:1269814001194504285>"
-  },
-  {
-    "id": "Lebanon",
-    "name": "Lebanon",
-    "category": "flags",
-    "url": "https://i.ibb.co/LPYNzGG/ezgif-7-d9dc5b4cc6.png",
-    "emoji": "<emoji_Lebanon:1269814017677856839>"
-  },
-  {
-    "id": "Mauritania",
-    "name": "Mauritania",
-    "category": "flags",
-    "url": "https://i.ibb.co/8mZKC19/ezgif-7-f78d395b85.png",
-    "emoji": "<emoji_Mauritania:1269814036594425958>"
-  },
-  {
-    "id": "Morocco",
-    "name": "Morocco",
-    "category": "flags",
-    "url": "https://i.ibb.co/kSdbdCn/ezgif-7-f3b2fab832.png",
-    "emoji": "<emoji_Morocco:1269814205142270003>"
-  },
-  {
-    "id": "Djibouti",
-    "name": "Djibouti",
-    "category": "flags",
-    "url": "https://i.ibb.co/cQFNw8G/ezgif-1-92158fd061.png",
-    "emoji": "<emoji_Djibouti:1269814246850691152>"
-  },
-  {
-    "id": "Egypt",
-    "name": "Egypt",
-    "category": "flags",
-    "url": "https://i.ibb.co/hs9GjBp/ezgif-7-f21e193074.png",
-    "emoji": "<emoji_Egypt:1269814259802705922>"
-  },
-  {
-    "id": "iraq",
-    "name": "iraq",
-    "category": "flags",
-    "url": "https://i.ibb.co/Q6CLZyM/ezgif-7-126237475a.png",
-    "emoji": "<emoji_iraq:1269814275225157684>"
-  }
+      "id": "1352687418418921532",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_0c0eeb351ae2cf48c6e1eee2cae49d40.png?size=240&passthrough=true",
+      "label": "Hugh the Rainbow", 
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687418418921532>"
+    },
+    {
+      "id": "1352687448228106302",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_0e839cd79500e7b68e2bbbed54790c28.png?size=240&passthrough=true",
+      "label": "Phoenix",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687448228106302>"
+    },
+    {
+      "id": "1352687476317093888",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_0f4f1b40921ce680b60007e94427d1f2.png?size=160&passthrough=true",
+      "label": "Firecrackers",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687476317093888>"
+    },
+    {
+      "id": "1352687565219692648",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_0f5d6c4dd8ae74662ee9c40722a56cbd.png?size=240&passthrough=true",
+      "label": "Flaming Sword",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687565219692648>"
+    },
+    {
+      "id": "1352687609780113562",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_001e956faa73bd0410c455234c62818f.png?size=240&passthrough=true",
+      "label": "RamenBowl",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687609780113562>"
+    },
+    {
+      "id": "1352687646475817051",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_1acbe609daec21fa5b866df9e5a42cb7.png?size=240&passthrough=true",
+      "label": "Steampunk Cat Ears",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687646475817051>"
+    },
+    {
+      "id": "1352687706303500391",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_1b1df0ae8c2d34afd85da5c22a0d761a.png?size=240&passthrough=true",
+      "label": "Lucky Envelopes",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687706303500391>"
+    },
+    {
+      "id": "1352687727283273788",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_1dbc603c181999b9815cb426dfec71a6.png?size=240&passthrough=true",
+      "label": "Magical Potion",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687727283273788>"
+    },
+    {
+      "id": "1352687750910054440",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_1e8cb6070b13f775a41384c84c5a53e1.png?size=240&passthrough=true",
+      "label": "Akuma",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687750910054440>"
+    },
+    {
+      "id": "1352687779103903754",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_2b95e7a4951a1a092e7870bf1d456262.png?size=240&passthrough=true",
+      "label": "Next Turn Button",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687779103903754>"
+    },
+    {
+      "id": "1352687799467249694",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_2ca5fb1ecf0dac410b38d76cb4aae7f9.png?size=240&passthrough=true",
+      "label": "Snowglobe",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687799467249694>"
+    },
+    {
+      "id": "1352687817125531759",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_2d792aad5003faf6809e26879a7eae6b.png?size=240&passthrough=true",
+      "label": "Feelin'Nervous",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687817125531759>"
+    },
+    {
+      "id": "1352687886021034025",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_2e55d644e11acb6253dfa422eff16dfd.png?size=240&passthrough=true",
+      "label": "Lotus Flower",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687886021034025>"
+    },
+    {
+      "id": "1352687923060936756",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_3c97a2d37f433a7913a1c7b7a735d000.png?size=240&passthrough=true",
+      "label": "Angry",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687923060936756>"
+    },
+    {
+      "id": "1352687950558920748",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_3c5743cedcb72131c58278278a97c143.png?size=240&passthrough=true",
+      "label": "Owlbear Cub",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687950558920748>"
+    },
+    {
+      "id": "1352687975795920928",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_3d1e6078b2e4c8865e0ad0f429d651b1.png?size=240&passthrough=true",
+      "label": "Straw Hat",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352687975795920928>"
+    },
+    {
+      "id": "1352688006338842714",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_3e1fc3c7ee2e34e8176f4737427e8f4f.png?size=240&passthrough=true",
+      "label": "Heartbloom",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688006338842714>"
+    },
+    {
+      "id": "1352688027096584397",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_3f29e6edfe1cff43736f644cf1d01278.png?size=240&passthrough=true",
+      "label": "Candlelight",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688027096584397>"
+    },
+    {
+      "id": "1352688047501611089",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_4c9f2ec29c05755456dbce45d8190ed4.png?size=240&passthrough=true",
+      "label": "Treasure and Key",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688047501611089>"
+    },
+    {
+      "id": "1352688136488222821",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_4cc97277177b166fd7d4af3bdb370815.png?size=240&passthrough=true",
+      "label": "in Tears",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688136488222821>"
+    },
+    {
+      "id": "1352688164925341844",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_4cd9ae5a8d103c219eacd3674d7730cd.png?size=240&passthrough=true",
+      "label": "Butterflies",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688164925341844>"
+    },
+    {
+      "id": "1352688185896992921",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_4f2b75e5adff09709702613ea0e2cb70.png?size=240&passthrough=true",
+      "label": "Zombie Food",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688185896992921>"
+    },
+    {
+      "id": "1352688217828233266",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_5b1319abfc9f928479b68a73635f591d.png?size=240&passthrough=true",
+      "label": "Bubble Tea",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688217828233266>"
+    },
+    {
+      "id": "1352688243153571911",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_5e8abacc7a7454d6b08b5cc84cac1d80.png?size=240&passthrough=true",
+      "label": "Witch Hat (Plum)",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688243153571911>"
+    },
+    {
+      "id": "1352688272836657297",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_6b793a5f7e4e15eea6b10a4fde448511.png?size=240&passthrough=true",
+      "label": "Shy",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688272836657297>"
+    },
+    {
+      "id": "1352688305011167307",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_6d16b27d9415cafe3b289053644337c4.png?size=240&passthrough=true",
+      "label": "Black Hole",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688305011167307>"
+    },
+    {
+      "id": "1352688338082988064",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_6d99f670de3fcee669660fe262e896ea.png?size=240&passthrough=true",
+      "label": "Mirage",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688338082988064>"
+    },
+    {
+      "id": "1352688400959799449",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_6fdbddb6229453eac3bbb212edf5cd1c.png?size=240&passthrough=true",
+      "label": "UFO",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688400959799449>"
+    },
+    {
+      "id": "1352688431376891965",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_007d64a922ff5773fb9464945de93c8e.png?size=240&passthrough=true",
+      "label": "aespa Fanlight",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688431376891965>"
+    },
+    {
+      "id": "1352688457037910088",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_7cf09c7e78d6eb35ae354acc1d5cc676.png?size=240&passthrough=true",
+      "label": "Sakura Warrior",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688457037910088>"
+    },
+    {
+      "id": "1352688484300882133",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_7d305bca6cf371df98c059f9d2ef05e4.png?size=240&passthrough=true",
+      "label": "Fox Hat",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688484300882133>"
+    },
+    {
+      "id": "1352688511169466368",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_7f44d538ec830f479605f7bf8720afda.png?size=240&passthrough=true",
+      "label": "Lovestruck",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688511169466368>"
+    },
+    {
+      "id": "1352688535949541542",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_7f863078aee4932cd50ee4e3b55d3035.png?size=240&passthrough=true",
+      "label": "Crossbones",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688535949541542>"
+    },
+    {
+      "id": "1352688607072223346",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_8ad98d25ee4e4512704f759476eeb294.png?size=240&passthrough=true",
+      "label": "Group Hug",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688607072223346>"
+    },
+    {
+      "id": "1352688633144147999",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_8c17e799bfeffa797042569a1ebcafc0.png?size=240&passthrough=true",
+      "label": "Pipedream",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688633144147999>"
+    },
+    {
+      "id": "1352688660683952178",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_8dddba8c2a9704a943bb7020a3d0a418.png?size=240&passthrough=true",
+      "label": "Hex Tiles",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688660683952178>"
+    },
+    {
+      "id": "1352688718753824790",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_8ee8ae54bddfcb17d7d5c5f9bce41c0d.png?size=240&passthrough=true",
+      "label": "Crystal Ball (Blue)",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688718753824790>"
+    },
+    {
+      "id": "1352688769211568149",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_8ffa2ba9bff18e96b76c2e66fd0d7fa3.png?size=240&passthrough=true",
+      "label": "In Love",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688769211568149>"
+    },
+    {
+      "id": "1352688796176613546",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_09bb4197c743ea31b7eb052eddd3e892.png?size=240&passthrough=true",
+      "label": "Hex Lights",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688796176613546>"
+    },
+    {
+      "id": "1352688824165072956",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_09de63526a45be1ddac70e84718ee04a.png?size=240&passthrough=true",
+      "label": "FRAG OUT",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688824165072956>"
+    },
+    {
+      "id": "1352688892385562714",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_9a6bf0ab30a6719d6eb09fa4996984ca.png?size=240&passthrough=true",
+      "label": "Solar Orbit",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688892385562714>"
+    },
+    {
+      "id": "1352688917081624607",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_9bc421cef4bdcfffeb2344b44ad91b44.png?size=240&passthrough=true",
+      "label": "The Monster You Created",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688917081624607>"
+    },
+    {
+      "id": "1352688939907027080",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_9cc1c1426ea5478aac7be6cdefdbc568.png?size=240&passthrough=true",
+      "label": "Good Ol'Pepper",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352688939907027080>"
+    },
+    {
+      "id": "1352689042474664017",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_9d2ff9685be0c668ef6990b0035fac17.png?size=240&passthrough=true",
+      "label": "Fan Flourish",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352689042474664017>"
+    },
+    {
+      "id": "1352689087655579730",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_9d67a1cbf81fe7197c871e94f619b04b.png?size=240&passthrough=true",
+      "label": "Skull Medallion",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352689087655579730>"
+    },
+    {
+      "id": "1352689118374793286",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_9d95e36bc282523fddc63d31a8d01091.png?size=240&passthrough=true",
+      "label": "Tarrain Tiles",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352689118374793286>"
+    },
+    {
+      "id": "1352689152877002843",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_9d35467f282b8c72a26f5aa40aa2a637.png?size=240&passthrough=true",
+      "label": "Feelin'Scrumptious",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352689152877002843>"
+    },
+    {
+      "id": "1352689219063255172",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_9e16d86b2887eb2a3bed36a5b8876935.png?size=240&passthrough=true",
+      "label": "Red Lantern",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352689219063255172>"
+    },
+    {
+      "id": "1352689708521623694",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_25f7407a6a0c5de43736a1f24c3b7979.png?size=160&passthrough=true",
+      "label": "Mooncaps (Blue)",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352689708521623694>"
+    },
+    {
+      "id": "1352689726620045322",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_27bbf0b53b1054cf61e9a4c0e8d4027f.png?size=240&passthrough=true",
+      "label": "Honeyblossom",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352689726620045322>"
+    },
+    {
+      "id": "1352689749915209910",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_28e531da18a80b8287837332154c5f58.png?size=160&passthrough=true",
+      "label": "String Lights (Dusk)",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352689749915209910>"
+    },
+    {
+      "id": "1352689842177179739",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_29a0533cb3de61aa8179810188f3830d.png?size=240&passthrough=true",
+      "label": "Defensive Shield",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352689842177179739>"
+    },
+    {
+      "id": "1352690651065614386",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_42cc3fe7133523096466102e7a222003.png?size=160&passthrough=true",
+      "label": "Heartstrings (Blue)",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352690651065614386>"
+    },
+    {
+      "id": "1352690708863123569",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_45f7f9975255971b197d34d77fb50ede.png?size=240&passthrough=true",
+      "label": "Magical Girl",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352690708863123569>"
+    },
+    {
+      "id": "1352690738680565934",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_47c0f4b4a837894998d5a316acf74f87.png?size=240&passthrough=true",
+      "label": "Unicorn",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352690738680565934>"
+    },
+    {
+      "id": "1352690760096419902",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_49c479e15533fb4c02eb320c9c137433.png?size=240&passthrough=true",
+      "label": "Chromawave",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352690760096419902>"
+    },
+    {
+      "id": "1352690799728529560",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_49ed38f73003e2e182f77190af0a0a56.png?size=240&passthrough=true",
+      "label": "Rocket Puncher",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352690799728529560>"
+    },
+    {
+      "id": "1352690823388725409",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_49ffdb1883d8c644a8eb68711ee58be9.png?size=240&passthrough=true",
+      "label": "Slither'n Snack",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352690823388725409>"
+    },
+    {
+      "id": "1352690853906350131",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_50b440810b1bbd89f6284f36d40ad0af.png?size=240&passthrough=true",
+      "label": "Koi Pond",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352690853906350131>"
+    },
+    {
+      "id": "1352690918247108608",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_50cfb73a4c52235363491855d3c3c3bc.png?size=240&passthrough=true",
+      "label": "Faces of the Moon",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352690918247108608>"
+    },
+    {
+      "id": "1352690993832656939",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_51d3bb502109eec26c76386ec980bc8b.png?size=240&passthrough=true",
+      "label": "Dismay",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352690993832656939>"
+    },
+    {
+      "id": "1352691036043870249",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_55c9d0354290afa8b7fe47ea9bd7dbcf.png?size=240&passthrough=true",
+      "label": "Sweat Drops",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691036043870249>"
+    },
+    {
+      "id": "1352691059309940816",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_60cb281fac6d8f558efaf6dd9fe4dbe4.png?size=240&passthrough=true",
+      "label": "Lofi Girl Outfit",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691059309940816>"
+    },
+    {
+      "id": "1352691081883684954",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_62cd9d7c0031a7c1eb5ad5cc96992189.png?size=240&passthrough=true",
+      "label": "Viper Poison Cloud",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691081883684954>"
+    },
+    {
+      "id": "1352691113173061683",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_63a69109db554a66764cbe61c6e556ef.png?size=240&passthrough=true",
+      "label": "Heartstrings (Red)",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691113173061683>"
+    },
+    {
+      "id": "1352691135067459586",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_63b29ec5b1ea6bb01c2251049838d822.png?size=240&passthrough=true",
+      "label": "Lunar Lanterns",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691135067459586>"
+    },
+    {
+      "id": "1352691229426712658",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_63d17f42ee46a843d99a58655910bc6a.png?size=160&passthrough=true",
+      "label": "String Lights (Ember)",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691229426712658>"
+    },
+    {
+      "id": "1352691255334670466",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_66f69effef43b4f7c4f5d0739079a947.png?size=160&passthrough=true",
+      "label": "M. Bison",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691255334670466>"
+    },
+    {
+      "id": "1352691293532323920",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_68cb6c21d6222cd9285c08068f39873d.png?size=240&passthrough=true",
+      "label": "Ryu",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691293532323920>"
+    },
+    {
+      "id": "1352691337694019626",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_72d1fd7c47cc7a98c8f64d175773344b.png?size=240&passthrough=true",
+      "label": "Magic Portal (Purple)",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691337694019626>"
+    },
+    {
+      "id": "1352691394426306601",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_77b7b6a740a9451e1ef39c0252154ef8.png?size=240&passthrough=true",
+      "label": "Cozy Cat",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691394426306601>"
+    },
+    {
+      "id": "1352691419080560700",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_78f326d95c0193c317470e3e81db81e7.png?size=240&passthrough=true",
+      "label": "Scallywag",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691419080560700>"
+    },
+    {
+      "id": "1352691512143777956",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_82e4df4028396ad5ccaaafb397fa6248.png?size=240&passthrough=true",
+      "label": "Balance",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691512143777956>"
+    },
+    {
+      "id": "1352691761096425493",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_84a67b33ef5b75e17f858a95648c973f.png?size=240&passthrough=true",
+      "label": "FISHBONES!",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691761096425493>"
+    },
+    {
+      "id": "1352691788103548969",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_88f42fb7360d8224a670a50c3496f315.png?size=240&passthrough=true",
+      "label": "String Lights",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691788103548969>"
+    },
+    {
+      "id": "1352691811377741834",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_90e0dce3cc48c4a9607b6d41209c737e.png?size=240&passthrough=true",
+      "label": "VALORANT Champions 2024",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691811377741834>"
+    },
+    {
+      "id": "1352691833905614918",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_91a33236cf2728310a3a29bbdc8e0d29.png?size=240&passthrough=true",
+      "label": "Cannon Fire",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691833905614918>"
+    },
+    {
+      "id": "1352691863324459141",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_96f65d0aacc4a94b50ef7fb656d5826d.png?size=240&passthrough=true",
+      "label": "Playful Lofi Cat",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691863324459141>"
+    },
+    {
+      "id": "1352691886514770042",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_98c7600d304b86ca3b18272e1da05559.png?size=240&passthrough=true",
+      "label": "Crystal Elk",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691886514770042>"
+    },
+    {
+      "id": "1352691919498645605",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_98cf94e029ac79c5b377413d1a2bd82f.png?size=160&passthrough=true",
+      "label": "Magic Portal (Blue)",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691919498645605>"
+    },
+
+
+
+
+
+
+
+    {
+      "id": "1352691945964568749",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_172fa9da0af8698e37f5e5de76637439.png?size=240&passthrough=true",
+      "label": "Implant",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691945964568749>"
+    },
+    {
+      "id": "1352691999261851779",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_210b82b98876083ce393ecd92eb07260.png?size=240&passthrough=true",
+      "label": "Cottage Home",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352691999261851779>"
+    },
+    {
+      "id": "1352692107332157602",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_306a56249fe3c3d2bc7a30041cb63e0e.png?size=240&passthrough=true",
+      "label": "Bloomling",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352692107332157602>"
+    },
+    {
+      "id": "1352692128836223108",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_365eed4178528fe8293c4212e8e2d5cb.png?size=240&passthrough=true",
+      "label": "Lightning",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352692128836223108>"
+    },
+    {
+      "id": "1352692175095206049",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_459cf2afde41f01559a4a4204ab81767.png?size=240&passthrough=true",
+      "label": "Mech flora",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352692175095206049>"
+    },
+    {
+      "id": "1352692217273389066",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_462b0bddc07dd495765fe12abe8b077f.png?size=240&passthrough=true",
+      "label": "Lava Lamp Bundle",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352692217273389066>"
+    },
+    {
+      "id": "1352692240333410386",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_492f6b54b761c0a14d9dbc9c98aaa0f5.png?size=240&passthrough=true",
+      "label": "Mallow Jump",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352692240333410386>"
+    },
+    {
+      "id": "1352692264907968694",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_535aa3354b1a7395c271bb2f53be4275.png?size=240&passthrough=true",
+      "label": "Dancing fairies",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352692264907968694>"
+    },
+    {
+      "id": "1352692287074861078",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_554b7c34f7b6c709f19535aacb128e7b.png?size=240&passthrough=true",
+      "label": "Air",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352692287074861078>"
+    },
+    {
+      "id": "1352692307270570004",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_555ad9b90a13534180b9274d013e3651.png?size=240&passthrough=true",
+      "label": "Rose Bearer",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352692307270570004>"
+    },
+    {
+      "id": "1352692335942701156",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_609fb5c17a4d5ff2e2bec1a1931a9caa.png?size=240&passthrough=true",
+      "label": "Power by shimmer",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352692335942701156>"
+    },
+    {
+      "id": "1352692355722907833",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_670b722e56740d11d1e6fe55b8094013.png?size=240&passthrough=true",
+      "label": "Head in the clouds", 
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352692355722907833>"
+    },
+    {
+      "id": "1352692381627060275",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_720a2045510ec16f9878237d2ff9873f.png?size=160&passthrough=true",
+      "label": "fall leaves",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352692381627060275>"
+    },
+    {
+      "id": "1352692425881157674",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_798a5bcbb11067e4d9ab339e51d2a16c.png?size=240&passthrough=true",
+      "label": "Pirate captain",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352692425881157674>"
+    },
+    {
+      "id": "1352692487805730907",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_904b1989077c91fca1168d39bfcaa0a4.png?size=240&passthrough=true",
+      "label": "Blade storm", 
+  
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352692487805730907>"
+    },
+    {
+      "id": "1352692508408156221",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_993ac691660d3d67b500d995e121b220.png?size=240&passthrough=true",
+      "label": "Guile",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352692508408156221>"
+    },
+    {
+      "id": "1352693177865338994",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_3012fad396abbf24e325431800b51510.png?size=240&passthrough=true",
+      "label": "sproutling",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693177865338994>"
+    },
+    {
+      "id": "1352693202444091394",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_4430a4ee89b7fba456e765db21f38485.png?size=240&passthrough=true",
+      "label": "Midnight Sorceress",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693202444091394>"
+    },
+    {
+      "id": "1352693244877602906",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_5087f7f988bd1b2819cac3e33d0150f5.png?size=240&passthrough=true",
+      "label": "fall Leaves",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693244877602906>"
+    },
+    {
+      "id": "1352693265073307761",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_5873ecaa76fb549654b40095293f902e.png?size=240&passthrough=true",
+      "label": "Doodling",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693265073307761>"
+    },
+    {
+      "id": "1352693289643409479",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_6649e251a23f24935471ee02c212675b.png?size=240&passthrough=true",
+      "label": "Sleepy chilledcow",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693289643409479>"
+    },
+    {
+      "id": "1352693320580730973",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_6912c651e979fbfdc479ed082a571513.png?size=240&passthrough=true",
+      "label": "Armamenter",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693320580730973>"
+    },
+    {
+      "id": "1352693353027731476",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_8396e9830e3e288cd3aaa6daf18b605a.png?size=240&passthrough=true",
+      "label": "Flame Chompers", 
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693353027731476>"
+    },
+    {
+      "id": "1352693385877520388",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_8552f9857793aed0cf816f370e2df3be.png?size=240&passthrough=true",
+      "label": "Constellations", 
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693385877520388>"
+    },
+    {
+      "id": "1352693406949970104",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_9661cf3296ac236d8815e3f5b809a467.png?size=240&passthrough=true",
+      "label": "cat onesie",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693406949970104>"
+    },
+    {
+      "id": "1352693430224158802",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_9867b1ba56601e745cfe741e6b00b835.png?size=240&passthrough=true",
+      "label": "Strawberry Vine",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693430224158802>"
+    },
+    {
+      "id": "1352693460288929843",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_13913a00bd9990ab4102a3bf069f0f3f.png?size=240&passthrough=true",
+      "label": "sakura lnk",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693460288929843>"
+    },
+    {
+      "id": "1352693571765141534",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_33656b7ed12cde00c1826b654cf65590.png?size=240&passthrough=true",
+      "label": "spooky cat Ears", 
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693571765141534>"
+    },
+    {
+      "id": "1352693599590154470",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_41445f736db3525135b6b9e1122f2254.png?size=240&passthrough=true",
+      "label": "Dark Hood",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693599590154470>"
+    },
+    {
+      "id": "1352693617424072735",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_44045ae47175eaca4ed1b4d889b62b27.png?size=240&passthrough=true",
+      "label": "sushi roll",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693617424072735>"
+    },
+    {
+      "id": "1352693640862105601",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_47136c333dc989a0f0f9852e878d3844.png?size=160&passthrough=true",
+      "label": "string Lights",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693640862105601>"
+    },
+    {
+      "id": "1352693685904605215",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_66604bb5c9351541f30c20a4e78c239c.png?size=240&passthrough=true",
+      "label": "Gelatinous Cube",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693685904605215>"
+    },
+    {
+      "id": "1352693708272828508",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_89155faed81b205d59fbbefa4316952d.png?size=240&passthrough=true",
+      "label": "Feelin' awe",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693708272828508>"
+    },
+    {
+      "id": "1352693734965510174",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_94191be95bb9c471ff17644f3639eb6d.png?size=240&passthrough=true",
+      "label": "Dice",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693734965510174>"
+    },
+    {
+      "id": "1352693762416971926",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_98555e40cc6802bd3a4fed906af1d992.png?size=240&passthrough=true",
+      "label": "A hint of clove", 
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693762416971926>"
+    },
+    {
+      "id": "1352693800526680106",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_126219d37fa9422dab6a075064453750.png?size=240&passthrough=true",
+      "label": "Neon Nibbles",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693800526680106>"
+    },
+    {
+      "id": "1352693820197834762",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_250640ab00a8837a1d56f35879138177.png?size=240&passthrough=true",
+      "label": "Water",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693820197834762>"
+    },
+    {
+      "id": "1352693842612060294",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_445566ed965b2c1632a5b45c92f32d11.png?size=240&passthrough=true",
+      "label": "Dragon's smile",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693842612060294>"
+    },
+    {
+      "id": "1352693884920008816",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_795573a62c6d9b583f3029100f90d56b.png?size=240&passthrough=true",
+      "label": "Joystick",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693884920008816>"
+    },
+    {
+      "id": "1352693911243591731",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_1005898c6acf56a9ac5010baf444f6fd.png?size=240&passthrough=true",
+      "label": "Spirit Embers",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693911243591731>"
+    },
+    {
+      "id": "1352693968386920540",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_35713167cc82e0f408c26dfc032a7f0f.png?size=160&passthrough=true",
+      "label": "Got xenoglossy",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352693968386920540>"
+    },
+    {
+      "id": "1352694027215962113",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_084353360ae4f9b5b3b5f186e5525de0.png?size=240&passthrough=true",
+      "label": "Kabuto",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694027215962113>"
+    },
+    {
+      "id": "1352694050289094759",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_386445551be850bb16b73a225d0d0602.png?size=240&passthrough=true",
+      "label": "Aurora",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694050289094759>"
+    },
+    {
+      "id": "1352694063567999048",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_629689577fa1da2ef0061a5a8c930de1.png?size=240&passthrough=true",
+      "label": "Dandelion Duo",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694063567999048>"
+    },
+    {
+      "id": "1352694081611890831",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a0db4314b8cc271c8f472357aa895005.png?size=240&passthrough=true",
+      "label": "Rage",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694081611890831>"
+    },
+    {
+      "id": "1352694121873281086",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a0fafb7c7ee7f1e5b1442f44f3aa14b7.png?size=240&passthrough=true",
+      "label": "Fresh pine", 
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694121873281086>"
+    },
+    {
+      "id": "1352694149530390549",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a1c0581971d4a296908829289fea2c47.png?size=240&passthrough=true",
+      "label": "Ruby hearts",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694149530390549>"
+    },
+    {
+      "id": "1352694177770639443",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a4e8e02dbbba6889428c744df7aa5a81.png?size=240&passthrough=true",
+      "label": "city walls",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694177770639443>"
+    },
+    {
+      "id": "1352694220980355195",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a7e6467b5332ab7a2b725aa225e6c752.png?size=240&passthrough=true",
+      "label": "Polar Bear hat", 
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694220980355195>"
+    },
+    {
+      "id": "1352694253116985364",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a44e9335ea869639fdf812f3642a56a6.png?size=240&passthrough=true",
+      "label": "Dusk and Dawn",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694253116985364>"
+    },
+    {
+      "id": "1352694278773543012",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a87e3efa4de2956331831681231ce63b.png?size=240&passthrough=true",
+      "label": "Reyna's leer", 
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694278773543012>"
+    },
+    {
+      "id": "1352694314739695658",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a842a9cf76fdaf91a6354937b31ecdef.png?size=240&passthrough=true",
+      "label": "Baby Displacer Beast",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694314739695658>"
+    },
+    {
+      "id": "1352694339842871419",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a21393f8a2cb8eafbdfb5364fb1cbbae.png?size=240&passthrough=true",
+      "label": "oni mask",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694339842871419>"
+    },
+    {
+      "id": "1352694362345308230",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a065206df7b011a5510e4e5bca7d49be.png?size=240&passthrough=true",
+      "label": "Fire",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694362345308230>"
+    },
+    {
+      "id": "1352694406507139236",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_a67833d0f3138d7dcdee98c39eae33d7.png?size=240&passthrough=true",
+      "label": "Bowler hat",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694406507139236>"
+    },
+    {
+      "id": "1352694485968224357",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_ab95c78401ce4ec85c25a6d308db9d85.png?size=240&passthrough=true",
+      "label": "The petal pack",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694485968224357>"
+    },
+    {
+      "id": "1352694765300219986",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_af5ee420e5f860ff2cdbb5fa4633f2cf.png?size=240&passthrough=true",
+      "label": "The Anomaly", 
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694765300219986>"
+    },
+    {
+      "id": "1352694791770476544",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_b1efe77f379c6c9c6e47e6b6299d5a7d.png?size=240&passthrough=true",
+      "label": "cypher Neural Theft", 
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694791770476544>"
+    },
+    {
+      "id": "1352694867980980306",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_b4dcf63b6af2e20cba91af61c0e3a8a7.png?size=240&passthrough=true",
+      "label": "Devil", 
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694867980980306>"
+    },
+    {
+      "id": "1352694908854468739",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_b98e8b204d59882fb7f9f7c86922c0bf.png?size=240&passthrough=true",
+      "label": "shocked", 
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694908854468739>"
+    },
+    {
+      "id": "1352694928404385876",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_b13180be7866281f6fa588a49dd7feb0.png?size=240&passthrough=true",
+      "label": "Mooncaps",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694928404385876>"
+    },
+    {
+      "id": "1352694972104572958",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_b98093bb7723235a4cd2792762795640.png?size=240&passthrough=true",
+      "label": "Helmsman",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352694972104572958>"
+    },
+    {
+      "id": "1352695043420459172",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_bb71042ccd2ca277a69f086a4f3354d0.png?size=240&passthrough=true",
+      "label": "cozy Headphones",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352695043420459172>"
+    },
+    {
+      "id": "1352696581907943577",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_bc63175fe462d8748b68ea5179249418.png?size=160&passthrough=true",
+      "label": "Fall Leaves",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352696581907943577>"
+    },
+    {
+      "id": "1352696607715360902",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_be111e4303d634c55500202a61656e0b.png?size=240&passthrough=true",
+      "label": "Kitsune", 
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352696607715360902>"
+    },
+    {
+      "id": "1352696804558373021",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_bfaeda83edb41e78250eedc71bed31fc.png?size=240&passthrough=true",
+      "label": "Brass beats",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352696804558373021>"
+    },
+    {
+      "id": "1352696831217369209",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_c3c09bd122898be35093d0d59850f627.png?size=240&passthrough=true",
+      "label": "soul Leaving Body",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352696831217369209>"
+    },
+    {
+      "id": "1352696854491693117",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_c3cffc19e9784f7d0b005eecdf1b566e.png?size=240&passthrough=true",
+      "label": "cat Ears",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352696854491693117>"
+    },
+    {
+      "id": "1352696975203762186",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_c7e1751e8122f1b475cb3006966fb28c.png?size=240&passthrough=true",
+      "label": "ARadiating Energy",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352696975203762186>"
+    },
+    {
+      "id": "1352697057424707665",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_c25b962e5cabb9a656f02c50095d6496.png?size=240&passthrough=true",
+      "label": "Wizard Hat",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697057424707665>"
+    },
+    {
+      "id": "1352697077485797480",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_c32ce5680d4be96e059790ad493aa0fe.png?size=240&passthrough=true",
+      "label": "shuriken's mark",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697077485797480>"
+    },
+    {
+      "id": "1352697154413662371",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_c45abe8c7585fdb41b8d8d4d666f1588.png?size=240&passthrough=true",
+      "label": "omen's cowl",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697154413662371>"
+    },
+    {
+      "id": "1352697251914317835",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_c509c4760e5e1a50fa341d68f3c1901b.png?size=240&passthrough=true",
+      "label": "Autumn crown",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697251914317835>"
+    },
+  
+      
+    
+
+    
+    {
+      "id": "1352697387529015310",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_cc83efd93ecd6e41857449c3c0ef9b22.png?size=240&passthrough=true",
+      "label": "Digital Sunrise",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697387529015310>"
+    },
+    {
+      "id": "1352697419321839847",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_ccee9031d66bc0f2d7ed0c6178d01784.png?size=240&passthrough=true",
+      "label": "Golden Hex",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697419321839847>"
+    },
+    {
+      "id": "1352697445313806449",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_cdca4a092a03b16b94e50289fe3f7bd1.png?size=160&passthrough=true",
+      "label": "E.D Hacker",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697445313806449>"
+    },
+    {
+      "id": "1352697497419780278",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_d1ea7b8650bf3d64a03304c2ceb7d089.png?size=240&passthrough=true",
+      "label": "Malefic Crown",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697497419780278>"
+    },
+    {
+      "id": "1352697518995144714",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_d3a9c3a1c89ccb0e1ab8724a5c965f48.png?size=240&passthrough=true",
+      "label": "Magical Wand",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697518995144714>"
+    },
+    {
+      "id": "1352697535453724744",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_d3da36040163ee0f9176dfe7ced45cdc.png?size=240&passthrough=true",
+      "label": "DISXCORE Headset",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697535453724744>"
+    },
+    {
+      "id": "1352697562724827166",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_d8d93c7a53c0dd07a4074b745210434d.png?size=240&passthrough=true",
+      "label": "Flux Alchemy",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697562724827166>"
+    },
+    {
+      "id": "1352697583205613610",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_d650e22f6c4bab4fc0969e9d35edbcb0.png?size=240&passthrough=true",
+      "label": "Glowing Runes",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697583205613610>"
+    },
+    {
+      "id": "1352697616067985539",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_d859cee893cffd5dd0fa17a6caea44e0.png?size=240&passthrough=true",
+      "label": "Snake's Hug",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697616067985539>"
+    },
+    {
+      "id": "1352697629829628077",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_d72066b8cecbadd9fc951913ebcc384f.png?size=240&passthrough=true",
+      "label": "Starry Eyed",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697629829628077>"
+    },
+    {
+      "id": "1352697650029400134",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_da532f804b47f1681006c2996eb07b2a.png?size=240&passthrough=true",
+      "label": "Yoru Bundle",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697650029400134>"
+    },
+    {
+      "id": "1352697675367317564",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_db9baf0ba7cf449d2b027c06309dbe8d.png?size=240&passthrough=true",
+      "label": "Wizard's Staff",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697675367317564>"
+    },
+    {
+      "id": "1352697694774366228",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_dbb1abd90367c1a31a94f7e162f3a3c3.png?size=240&passthrough=true",
+      "label": "The Hexcore",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697694774366228>"
+    },
+    {
+      "id": "1352697712050442331",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_dcfe10bac4a782ffb5eefef7a8003115.png?size=240&passthrough=true",
+      "label": "Juri",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697712050442331>"
+    },
+    {
+      "id": "1352697728097845382",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_df5442048d7d5b8b8906f3a9cd93f0ab.png?size=240&passthrough=true",
+      "label": "Rumbling",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697728097845382>"
+    },
+    {
+      "id": "1352697747807145994",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_dff769a0f922bb56ab0d4ba2bcbacfae.png?size=160&passthrough=true",
+      "label": "Mix string Light bundle",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697747807145994>"
+    },
+    {
+      "id": "1352697764852535377",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_e0a2df84cf7eb8e098a13e37ec9027c1.png?size=240&passthrough=true",
+      "label": "Sakura scholar",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697764852535377>"
+    },
+    {
+      "id": "1352697789502587005",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_e8c11f139e55dac538cdaafb3caa2317.png?size=240&passthrough=true",
+      "label": "Rainy Mood",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697789502587005>"
+    },
+    {
+      "id": "1352697809866063984",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_e60cc4d7f4d8a6e79dd8cc67d2b13d6c.png?size=240&passthrough=true",
+      "label": "Aim For Love",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697809866063984>"
+    },
+    {
+      "id": "1352697831517065247",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_e72e44eeea89e92dc02c9bec8b02d158.png?size=240&passthrough=true",
+      "label": "Clyde invaders",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697831517065247>"
+    },
+    {
+      "id": "1352697856972292126",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_e90ebc0114e7bdc30353c8b11953ea41.png?size=240&passthrough=true",
+      "label": "Glitch",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697856972292126>"
+    },
+    {
+      "id": "1352697872679829636",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_e257ca83b5b164968fd036f69dbb2ad9.png?size=240&passthrough=true",
+      "label": "UwU XP",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697872679829636>"
+    },
+    {
+      "id": "1352697894125441114",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_e671277ab6d18c0de00871347eed94a7.png?size=240&passthrough=true",
+      "label": "Cozy POST-IT",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697894125441114>"
+    },
+    {
+      "id": "1352697946075959401",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_ef6fe8b27123eacccebe51c92a61587c.png?size=240&passthrough=true",
+      "label": "Eldritch Ring",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697946075959401>"
+    },
+    {
+      "id": "1352697965634130036",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_ef8d97374ffdbf140df1164be6c69e46.png?size=240&passthrough=true",
+      "label": "Aracanist Bundle",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697965634130036>"
+    },
+    {
+      "id": "1352697985758265397",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_efe3081ee3359a77b515575b5f7bc8c0.png?size=240&passthrough=true",
+      "label": "Starlight Whales",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352697985758265397>"
+    },
+    {
+      "id": "1352698006889168916",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_f1c60c026aa89971e360ba88643d92c0.png?size=240&passthrough=true",
+      "label": "Timekeeper's Clock",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352698006889168916>"
+    },
+    {
+      "id": "1352698022596710462",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_f3af281c65cf0cf590e9e1f59e9c6cf6.png?size=240&passthrough=true",
+      "label": "Ki Energy",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352698022596710462>"
+    },
+    {
+      "id": "1352698039193567346",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_f4fcdab859b2eab1874fbe7182d5aa26.png?size=240&passthrough=true",
+      "label": "Port of Soul",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352698039193567346>"
+    },
+    {
+      "id": "1352698064510386300",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_f8ffeba6f389d1475c8794ca88b59785.png?size=160&passthrough=true",
+      "label": "Azure Dice Roll Bundle",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352698064510386300>"
+    },
+    {
+      "id": "1352698086086021162",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_f11c214394044d001d81c983dcab354f.png?size=240&passthrough=true",
+      "label": "Feelin' Panic",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352698086086021162>"
+    },
+    {
+      "id": "1352699002910408835",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_f081c6b2c85c5ebe5df42f1c24d45bb5.png?size=240&passthrough=true",
+      "label": "A sphere of gusting wind swirls around the avatar.",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352699002910408835>"
+    },
+    {
+      "id": "1352699027686297663",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_f438bb9b2f25ac55058fc169ecc8096e.png?size=240&passthrough=true",
+      "label": "Bunny Zzzs",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352699027686297663>"
+    },
+    {
+      "id": "1352699041737080902",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_f524554b7f42a214d15c226c344a5357.png?size=240&passthrough=true",
+      "label": "Ken",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352699041737080902>"
+    },
+    {
+      "id": "1352699058581540967",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_f740031cc97d1b7eb73c0d0ac1dd09f3.png?size=240&passthrough=true",
+      "label": "Oasis",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352699058581540967>"
+    },
+    {
+      "id": "1352699090789601291",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_fa39ba4d9eff38d2eeb47ebcb623e4ca.png?size=240&passthrough=true",
+      "label": "Cat Ear Headset",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352699090789601291>"
+    },
+    {
+      "id": "1352699125149208626",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_fa014594d4b2b4249e1098c0adc85b47.png?size=240&passthrough=true",
+      "label": "Earht",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352699125149208626>"
+    },
+    {
+      "id": "1352699175698960556",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_fcb0de14da228879b455f1f1d3919749.png?size=240&passthrough=true",
+      "label": "Gold Laurel Wreath",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352699175698960556>"
+    },
+    {
+      "id": "1352699197501214732",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_fe3c76cac2adf426832a7e495e8329d3.png?size=160&passthrough=true",
+      "label": "Fairy & Pixie Bundle",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352699197501214732>"
+    },
+    {
+      "id": "1352699217994321951",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_fe63036018fefb8abe3172383497e3bf.png?size=240&passthrough=true",
+      "label": "Death's Edge",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352699217994321951>"
+    },
+    {
+      "id": "1352699238735413403",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_fead934c894e95e070d8a0301f9f0b27.png?size=240&passthrough=true",
+      "label": "Autumn's Arbor",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352699238735413403>"
+    },
+    {
+      "id": "1352699261078474864",
+      "url": "https://cdn.discordapp.com/avatar-decoration-presets/a_fed43ab12698df65902ba06727e20c0e.png?size=240&passthrough=true",
+      "label": "Futuristic UI",
+      "category": "decorations",
+      "emoji": "<:custom_emoji:1352699261078474864>"
+    },
+    {
+      "id": "Libya",
+      "name": "Libya",
+      "category": "flags",
+      "url": "https://i.ibb.co/VJ7q2FV/ezgif-7-a2ecd1b7f9.png",
+      "emoji": "<emoji_Libya:1269811652271013969>"
+    },
+    {
+      "id": "Algeria",
+      "name": "Algeria",
+      "category": "flags",
+      "url": "https://i.ibb.co/C7Zdqnp/ezgif-1-148d3d8ea9.png",
+      "emoji": "<emoji_Algeria:1269811671774269473>"
+    },
+    {
+      "id": "Bahrain",
+      "name": "Bahrain",
+      "category": "flags",
+      "url": "https://i.ibb.co/Dr5gMvn/ezgif-1-bf03b81f9d.png",
+      "emoji": "<emoji_Bahrain:1269811697850253332>"
+    },
+    {
+      "id": "Comoros",
+      "name": "Comoros",
+      "category": "flags",
+      "url": "https://i.ibb.co/9nqKx3b/ezgif-1-f0b73c7a9f.png",
+      "emoji": "<emoji_Comoros:1269812721449173064>"
+    },
+    {
+      "id": "Tunisia",
+      "name": "Tunisia",
+      "category": "flags",
+      "url": "https://i.ibb.co/Ksqq6d7/ezgif-7-727033509f.png",
+      "emoji": "<emoji_Tunisia:1269812736427032577>"
+    },
+    {
+      "id": "UAE",
+      "name": "UAE",
+      "category": "flags",
+      "url": "https://i.ibb.co/mSRswm8/ezgif-7-637d28d3db.png",
+      "emoji": "<emoji_UAE:1269813327924559916>"
+    },
+    {
+      "id": "Somalia",
+      "name": "Somalia",
+      "category": "flags",
+      "url": "https://i.ibb.co/Sn84j7t/ezgif-7-0f127c7b46.png",
+      "emoji": "<emoji_Somalia:1269813342927716434>"
+    },
+    {
+      "id": "Sudan",
+      "name": "Sudan",
+      "category": "flags",
+      "url": "https://i.ibb.co/TLTD2Jk/ezgif-7-b07f2e63fe.png",
+      "emoji": "<emoji_Sudan:1269813360279425065>"
+    },
+    {
+      "id": "Syria",
+      "name": "Syria",
+      "category": "flags",
+      "url": "https://i.ibb.co/dQvcZQp/ezgif-7-369d86d58c.png",
+      "emoji": "<emoji_Syria:1269813372711600171>"
+    },
+    {
+      "id": "Yemen",
+      "name": "Yemen",
+      "category": "flags",
+      "url": "https://i.ibb.co/kDF5G5v/ezgif-7-ea2030a439.png",
+      "emoji": "<emoji_Yemen:1269813700592926872>"
+    },
+    {
+      "id": "Overlay",
+      "name": "Overlay",
+      "category": "flags",
+      "url": "https://i.ibb.co/hZD0mmM/ezgif-7-699c07f6f4.png",
+      "emoji": "<emoji_Overlay:1269813723510472705>"
+    },
+    {
+      "id": "Palestine",
+      "name": "Palestine",
+      "category": "flags",
+      "url": "https://i.ibb.co/w6b12fc/ezgif-7-5217c6ff98.png",
+      "emoji": "<emoji_Palestine:1269813743731212299>"
+    },
+    {
+      "id": "Qatar",
+      "name": "Qatar",
+      "category": "flags",
+      "url": "https://i.ibb.co/xs2Lktj/ezgif-7-44263314da.png",
+      "emoji": "<emoji_Qatar:1269813762190479401>"
+    },
+    {
+      "id": "Saudi",
+      "name": "Saudi",
+      "category": "flags",
+      "url": "https://i.ibb.co/rGYFpWw/ezgif-7-8da0a9f5eb.png",
+      "emoji": "<emoji_Saudi:1269813780364394508>"
+    },
+    {
+      "id": "Jordan",
+      "name": "Jordan",
+      "category": "flags",
+      "url": "https://i.ibb.co/hyBBCB7/ezgif-7-df80ea6e6e.png",
+      "emoji": "<emoji_Jordan:1269813795606368277>"
+    },
+    {
+      "id": "Kuwait",
+      "name": "Kuwait",
+      "category": "flags",
+      "url": "https://i.ibb.co/y58DkH5/ezgif-7-af7e8c28ab.png",
+      "emoji": "<emoji_Kuwait:1269814001194504285>"
+    },
+    {
+      "id": "Lebanon",
+      "name": "Lebanon",
+      "category": "flags",
+      "url": "https://i.ibb.co/LPYNzGG/ezgif-7-d9dc5b4cc6.png",
+      "emoji": "<emoji_Lebanon:1269814017677856839>"
+    },
+    {
+      "id": "Mauritania",
+      "name": "Mauritania",
+      "category": "flags",
+      "url": "https://i.ibb.co/8mZKC19/ezgif-7-f78d395b85.png",
+      "emoji": "<emoji_Mauritania:1269814036594425958>"
+    },
+    {
+      "id": "Morocco",
+      "name": "Morocco",
+      "category": "flags",
+      "url": "https://i.ibb.co/kSdbdCn/ezgif-7-f3b2fab832.png",
+      "emoji": "<emoji_Morocco:1269814205142270003>"
+    },
+    {
+      "id": "Djibouti",
+      "name": "Djibouti",
+      "category": "flags",
+      "url": "https://i.ibb.co/cQFNw8G/ezgif-1-92158fd061.png",
+      "emoji": "<emoji_Djibouti:1269814246850691152>"
+    },
+    {
+      "id": "Egypt",
+      "name": "Egypt",
+      "category": "flags",
+      "url": "https://i.ibb.co/hs9GjBp/ezgif-7-f21e193074.png",
+      "emoji": "<emoji_Egypt:1269814259802705922>"
+    },
+    {
+      "id": "iraq",
+      "name": "iraq",
+      "category": "flags",
+      "url": "https://i.ibb.co/Q6CLZyM/ezgif-7-126237475a.png",
+      "emoji": "<emoji_iraq:1269814275225157684>"
+    }
 ]
