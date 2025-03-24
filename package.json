@@ -1,18 +1,21 @@
 {
   "name": "avatar-sys",
   "version": "1.0.0",
-  "description": "",
+  "description": "Discord Avatar Decoration Bot by Wick Studio",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "lint": "eslint ."
   },
-  "keywords": [],
+  "keywords": ["discord", "avatar", "decoration", "bot"],
   "author": "Wick Studio",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.6.7",
     "canvas": "^2.11.2",
     "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
     "gif-encoder-2": "^1.0.5",
     "gifken": "^3.0.4",
     "sharp-apng": "^0.1.5"
